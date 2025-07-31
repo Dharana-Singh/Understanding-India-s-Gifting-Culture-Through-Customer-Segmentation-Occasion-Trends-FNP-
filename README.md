@@ -9,6 +9,8 @@ Tools Used: ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=po
 ![DAX](https://img.shields.io/badge/Language-DAX-purple)
 
 Dataset: Customer Details, Orders and Product Details
+Dataset used: Simulated e-commerce customer dataset (publicly available), used to mimic real-world gifting trends and customer behavior.
+Dataset Source: https://github.com/Ayushi0214/FNP---Excel-Project/tree/main/fnp%20datasets
 
 Key Insights:
 1. Top 2 Customer Segments Drive Most Revenue: “Champions" and "Loyal Customers" contribute the highest share of revenue, indicating a strong core group of repeat customers.
@@ -19,3 +21,5 @@ Actionable Recommendations:
 1. Double Down on Loyal Segments: Create loyalty programs, exclusive previews, or discounts for "Champions" and "Loyal Customers" to sustain and increase their lifetime value.
 2. Leverage Occasion-Based Marketing: Focus campaigns around high-performing events (Raksha Bandhan, Holi). Introduce targeted bundles or limited-time offers.
 3. Nurture “Potential Loyalists” and “At Risk” Segments: Use retargeting emails, reactivation coupons, or personalised offers to move these groups into higher-value segments.
+
+
