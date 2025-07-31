@@ -4,7 +4,9 @@ Objectives: To build a data-driven dashboard that identifies key customer segmen
 
 Outcomes: The dashboard provides insights into customer value tiers, occasion-based revenue trends, monthly order performance, and the impact of key customer segments on revenue generation.
 
-Tools Used: Power BI, DAX, Excel
+Tools Used: ![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel)
+![DAX](https://img.shields.io/badge/Language-DAX-purple)
 
 Dataset: Customer Details, Orders and Product Details
 
